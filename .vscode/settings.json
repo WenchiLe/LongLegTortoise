@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "wdtctl",
+        "wdthold",
+        "wdtpw"
+    ],
+    "files.associations": {
+        "msp430.h": "c"
+    }
+}
